@@ -67,7 +67,7 @@
     <VirtualVoices>1024</VirtualVoices>
     <RealVoices>64</RealVoices>
     <UserSpeakerMode>Stereo</UserSpeakerMode>
-    <ServerName>Stationeers</ServerName>
+    <ServerName>SERVERNAME</ServerName>
     <StartLocalHost>true</StartLocalHost>
     <ServerVisible>true</ServerVisible>
     <ServerPassword />

@@ -1,7 +1,7 @@
 {
   "EntityDebugMode": false,
   "ConfigVersion": "1.5",
-  "ServerName": "Vintage Story Server",
+  "ServerName": "SERVERNAME",
   "ServerUrl": null,
   "ServerDescription": null,
   "WelcomeMessage": "Welcome {0}, may you survive well and prosper",
@@ -359,3 +359,4 @@
   "ChatRateLimitMs": 1000,
   "DieBelowDiskSpaceMb": 400,
   "ModIdBlackList": null
+}
