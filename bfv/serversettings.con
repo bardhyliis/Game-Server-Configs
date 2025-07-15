@@ -21,7 +21,7 @@ game.serverReservedPassword ""
 game.serverNumReservedSlots 0
 game.serverSpectatorAllowSwitchTime 120
 game.serverAllowSpectatorVoting 0
-game.setServerWelcomeMessage 0 "Server Powered by LinuxGSM"
+game.setServerWelcomeMessage 0 "Server Powered by Ray Hosting"
 game.ServerBandwidthChokeLimit 0
 game.ServerMaxAllowedConnectionType CTLanT1
 game.ServerAllowNoseCam 1
