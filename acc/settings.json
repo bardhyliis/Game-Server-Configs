@@ -1,26 +1,13 @@
 {
-  "SERVER_NAME": "SERVERNAME",
-  "ADMIN_PASSWORD": "changeme123",
-  "TCP_PORT": 9600,
-  "HTTP_PORT": 9601,
-  "PASSWORD": "",
-  "MAX_CLIENTS": 24,
-  "SESSION_OVERWRITE": true,
-  "SESSION": {
-    "TRACK_ID": "monza",
-    "TRACK_CONFIG_ID": "default",
-    "SESSION_TYPE": "practice",
-    "TIME_OF_DAY": 7200,
-    "SESSION_DURATION": 20,
-    "WEATHER": "clear",
-    "REAL_WEATHER": false,
-    "METER_TO_MILES": false
-  },
-  "FLAGS": {
-    "ALLOW_PITSTOPS": true,
-    "ALLOW_TYRE_WEAR": true,
-    "ALLOW_FUEL_USAGE": true,
-    "ALLOW_DAMAGE": true,
-    "ALLOW_ABSTRACT_REWARDS": true
-  }
+  "serverName": "SERVERNAME",
+  "adminPassword": "",
+  "carGroup": "FreeForAll",
+  "trackMedalsRequirement": -1,
+  "safetyRatingRequirement": -1,
+  "racecraftRatingRequirement": -1,
+  "password": "",
+  "maxCarSlots": 30,
+  "spectatorPassword": "",
+  "configVersion": 1,
+  "ignorePrematureDisconnects": 1 // Should not be removed.
 }
